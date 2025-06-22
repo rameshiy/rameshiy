@@ -4,7 +4,7 @@ I’m a **Mail Express Loco Pilot at Western Railways** and a passionate program
 
 My programming journey began in **1998**, when I developed the **Motorman Biodata & Booking System** in **VB6**—a pioneering application later renamed **COMBAT (Combined Booking & Training)**. It automated duty rostering for over **500 motormen in Western Railways** and is **still in use** at Churchgate today.
 
-Driven by a desire to solve real-world problems through technology, I later developed **COMS (Colony Management System)** using **Core PHP and MySQL**, further expanding it into a **Flutter-based mobile app**. The system is now used by **both Western and North Eastern Railways**.
+Driven by a desire to solve real-world problems through technology, I later developed **COMS (Colony Management System)** using **Core PHP and MySQL**, further expanding it into a **Flutter-based mobile app**. The system was used by **both Western and North Eastern Railways**.
 
 Today, I serve as a **Data Analytics and Application Development expert** at **CRIS (Centre for Railway Information Systems), Indian Railways**, where I manage large, mission-critical datasets and build high-performance applications.
 
