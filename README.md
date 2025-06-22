@@ -76,11 +76,6 @@ Whether it's **optimizing data pipelines**, **automating legacy workflows**, or 
 
 ---
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=rameshiy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
 
 ### ✍️ Dev Quote
 
