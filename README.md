@@ -6,7 +6,7 @@ My programming journey began in **1998**, when I developed the **Motorman Biodat
 
 Driven by a desire to solve real-world problems through technology, I later developed **COMS (Colony Management System)** using **Core PHP and MySQL**, further expanding it into a **Flutter-based mobile app**. The system was used by **both Western and North Eastern Railways**.
 
-Today, I serve as a **Data Analytics and Application Development expert** at **CRIS (Centre for Railway Information Systems), Indian Railways**, where I manage large, mission-critical datasets and build high-performance applications.
+Today, I serve as a **Data Analytics and Application Development Team Lead** at **CRIS (Centre for Railway Information Systems), Indian Railways**, where I manage large, mission-critical datasets and build high-performance applications.
 
 ---
 
